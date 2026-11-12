@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,WeightG,TargetPrice_CFA,CostMP_CFA,CostMO_CFA,GrossMargin_pct
+P001,Bouillie Maïs Nature,Céréales,500,1200,413,146,53.4
+P002,Bouillie Mil Enrichi,Céréales,500,1350,415,180,55.9
+P003,Bouillie Soja Vanille,Légumineuses,400,1500,530,241,48.6
+P004,Bouillie Arachide Cacao,Légumineuses,400,1600,591,200,50.6
+P005,Bouillie Manioc Nature,Tubercules,600,1100,354,134,55.6
+P006,Bouillie Plantain Sucré,Tubercules,600,1250,377,188,54.8
+P007,Bouillie Multi-Céréales,Céréales,500,1800,509,237,58.6
+P008,Bouillie Moringa Miel,Enrichie,350,2100,724,321,50.2

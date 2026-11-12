@@ -1,0 +1,481 @@
+Date,SaleID,ClientID,ClientName,Channel,Region,ProductID,ProductName,Category,QtySold,UnitPrice_CFA,TotalSales_CFA,UnitCost_CFA,TotalCost_CFA,GrossMargin_CFA,MarginRate_pct
+2024-01-01,VTE-0042,C011,CroixRouge Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,514,1601,822914,873,448722,374192,45.5
+2024-01-01,VTE-0078,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,333,1385,461205,685,228105,233100,50.5
+2024-01-01,VTE-0085,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P007,Bouillie Multi-Céréales,Céréales,118,1713,202134,729,86022,116112,57.4
+2024-01-01,VTE-0296,C011,CroixRouge Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,734,1544,1133296,972,713448,419848,37.0
+2024-01-02,VTE-0175,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P002,Bouillie Mil Enrichi,Céréales,34,1294,43996,685,23290,20706,47.1
+2024-01-04,VTE-0282,C009,Marché Central Garoua,Marché local,Nord,P003,Bouillie Soja Vanille,Légumineuses,66,1500,99000,640,42240,56760,57.3
+2024-01-05,VTE-0369,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P008,Bouillie Moringa Miel,Enrichie,116,2050,237800,843,97788,140012,58.9
+2024-01-05,VTE-0379,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P002,Bouillie Mil Enrichi,Céréales,49,1281,62769,587,28763,34006,54.2
+2024-01-07,VTE-0033,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P001,Bouillie Maïs Nature,Céréales,90,1109,99810,657,59130,40680,40.8
+2024-01-08,VTE-0158,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,218,1332,290376,800,174400,115976,39.9
+2024-01-08,VTE-0389,C003,Marché Mokolo,Marché local,Centre,P005,Bouillie Manioc Nature,Tubercules,25,1100,27500,510,12750,14750,53.6
+2024-01-09,VTE-0293,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P007,Bouillie Multi-Céréales,Céréales,135,1691,228285,748,100980,127305,55.8
+2024-01-10,VTE-0377,C003,Marché Mokolo,Marché local,Centre,P001,Bouillie Maïs Nature,Céréales,78,1200,93600,484,37752,55848,59.7
+2024-01-14,VTE-0070,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,230,1297,298310,839,192970,105340,35.3
+2024-01-14,VTE-0142,C011,CroixRouge Cameroun,ONG partenaire,Centre,P008,Bouillie Moringa Miel,Enrichie,502,1836,921672,981,492462,429210,46.6
+2024-01-16,VTE-0269,C010,Hôpital District Ebolowa,Clinique,Sud,P007,Bouillie Multi-Céréales,Céréales,128,1636,209408,981,125568,83840,40.0
+2024-01-16,VTE-0458,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,38,1100,41800,467,17746,24054,57.5
+2024-01-17,VTE-0381,C006,UNICEF Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,349,1207,421243,708,247092,174151,41.3
+2024-01-18,VTE-0093,C005,Vente Directe Usine,Vente directe,Littoral,P001,Bouillie Maïs Nature,Céréales,25,1200,30000,530,13250,16750,55.8
+2024-01-18,VTE-0362,C011,CroixRouge Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,533,1017,542061,593,316069,225992,41.7
+2024-01-20,VTE-0245,C002,Supermarché Dovv Douala,Supermarché,Littoral,P002,Bouillie Mil Enrichi,Céréales,63,1297,81711,594,37422,44289,54.2
+2024-01-21,VTE-0229,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P005,Bouillie Manioc Nature,Tubercules,91,1085,98735,468,42588,56147,56.9
+2024-01-21,VTE-0275,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P008,Bouillie Moringa Miel,Enrichie,59,1986,117174,964,56876,60298,51.5
+2024-01-22,VTE-0254,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P007,Bouillie Multi-Céréales,Céréales,88,1751,154088,745,65560,88528,57.5
+2024-01-22,VTE-0276,C011,CroixRouge Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,730,1295,945350,732,534360,410990,43.5
+2024-01-22,VTE-0333,C008,Score Supermarché Yaoundé,Supermarché,Centre,P006,Bouillie Plantain Sucré,Tubercules,208,1193,248144,680,141440,106704,43.0
+2024-01-22,VTE-0477,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P007,Bouillie Multi-Céréales,Céréales,124,1705,211420,832,103168,108252,51.2
+2024-01-23,VTE-0448,C005,Vente Directe Usine,Vente directe,Littoral,P003,Bouillie Soja Vanille,Légumineuses,8,1500,12000,668,5344,6656,55.5
+2024-01-25,VTE-0090,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P008,Bouillie Moringa Miel,Enrichie,113,2056,232328,896,101248,131080,56.4
+2024-01-25,VTE-0208,C009,Marché Central Garoua,Marché local,Nord,P007,Bouillie Multi-Céréales,Céréales,71,1800,127800,986,70006,57794,45.2
+2024-01-26,VTE-0099,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P008,Bouillie Moringa Miel,Enrichie,39,2094,81666,841,32799,48867,59.8
+2024-01-26,VTE-0435,C009,Marché Central Garoua,Marché local,Nord,P007,Bouillie Multi-Céréales,Céréales,43,1800,77400,745,32035,45365,58.6
+2024-01-27,VTE-0388,C011,CroixRouge Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,315,1402,441630,751,236565,205065,46.4
+2024-01-28,VTE-0015,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P008,Bouillie Moringa Miel,Enrichie,79,1978,156262,1008,79632,76630,49.0
+2024-01-28,VTE-0219,C011,CroixRouge Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,404,1048,423392,631,254924,168468,39.8
+2024-01-28,VTE-0258,C009,Marché Central Garoua,Marché local,Nord,P008,Bouillie Moringa Miel,Enrichie,80,2100,168000,865,69200,98800,58.8
+2024-01-29,VTE-0073,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P007,Bouillie Multi-Céréales,Céréales,75,1592,119400,1006,75450,43950,36.8
+2024-01-30,VTE-0071,C008,Score Supermarché Yaoundé,Supermarché,Centre,P006,Bouillie Plantain Sucré,Tubercules,246,1176,289296,547,134562,154734,53.5
+2024-01-30,VTE-0141,C010,Hôpital District Ebolowa,Clinique,Sud,P007,Bouillie Multi-Céréales,Céréales,114,1670,190380,760,86640,103740,54.5
+2024-01-31,VTE-0019,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P005,Bouillie Manioc Nature,Tubercules,100,1061,106100,575,57500,48600,45.8
+2024-01-31,VTE-0184,C003,Marché Mokolo,Marché local,Centre,P002,Bouillie Mil Enrichi,Céréales,63,1350,85050,737,46431,38619,45.4
+2024-01-31,VTE-0393,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P006,Bouillie Plantain Sucré,Tubercules,102,1240,126480,607,61914,64566,51.0
+2024-02-01,VTE-0058,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P003,Bouillie Soja Vanille,Légumineuses,55,1339,73645,689,37895,35750,48.5
+2024-02-04,VTE-0233,C009,Marché Central Garoua,Marché local,Nord,P003,Bouillie Soja Vanille,Légumineuses,63,1500,94500,730,45990,48510,51.3
+2024-02-04,VTE-0450,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P005,Bouillie Manioc Nature,Tubercules,104,1053,109512,556,57824,51688,47.2
+2024-02-06,VTE-0246,C010,Hôpital District Ebolowa,Clinique,Sud,P004,Bouillie Arachide Cacao,Légumineuses,146,1491,217686,739,107894,109792,50.4
+2024-02-06,VTE-0382,C009,Marché Central Garoua,Marché local,Nord,P008,Bouillie Moringa Miel,Enrichie,33,2100,69300,905,29865,39435,56.9
+2024-02-07,VTE-0018,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P002,Bouillie Mil Enrichi,Céréales,21,1332,27972,549,11529,16443,58.8
+2024-02-07,VTE-0249,C006,UNICEF Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,496,1109,550064,605,300080,249984,45.4
+2024-02-08,VTE-0049,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P003,Bouillie Soja Vanille,Légumineuses,129,1344,173376,626,80754,92622,53.4
+2024-02-08,VTE-0060,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P002,Bouillie Mil Enrichi,Céréales,45,1289,58005,636,28620,29385,50.7
+2024-02-08,VTE-0095,C009,Marché Central Garoua,Marché local,Nord,P002,Bouillie Mil Enrichi,Céréales,53,1350,71550,668,35404,36146,50.5
+2024-02-08,VTE-0228,C003,Marché Mokolo,Marché local,Centre,P003,Bouillie Soja Vanille,Légumineuses,75,1500,112500,629,47175,65325,58.1
+2024-02-09,VTE-0283,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,37,1100,40700,466,17242,23458,57.6
+2024-02-10,VTE-0109,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P001,Bouillie Maïs Nature,Céréales,84,1166,97944,579,48636,49308,50.3
+2024-02-10,VTE-0357,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P003,Bouillie Soja Vanille,Légumineuses,80,1414,113120,615,49200,63920,56.5
+2024-02-14,VTE-0100,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,17,2100,35700,873,14841,20859,58.4
+2024-02-14,VTE-0250,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,29,2100,60900,973,28217,32683,53.7
+2024-02-15,VTE-0156,C003,Marché Mokolo,Marché local,Centre,P007,Bouillie Multi-Céréales,Céréales,64,1800,115200,836,53504,61696,53.6
+2024-02-15,VTE-0311,C002,Supermarché Dovv Douala,Supermarché,Littoral,P005,Bouillie Manioc Nature,Tubercules,106,1047,110982,547,57982,53000,47.8
+2024-02-15,VTE-0453,C003,Marché Mokolo,Marché local,Centre,P004,Bouillie Arachide Cacao,Légumineuses,74,1600,118400,887,65638,52762,44.6
+2024-02-16,VTE-0077,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P004,Bouillie Arachide Cacao,Légumineuses,97,1582,153454,775,75175,78279,51.0
+2024-02-17,VTE-0181,C006,UNICEF Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,387,1111,429957,580,224460,205497,47.8
+2024-02-17,VTE-0327,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P006,Bouillie Plantain Sucré,Tubercules,29,1215,35235,536,15544,19691,55.9
+2024-02-18,VTE-0046,C009,Marché Central Garoua,Marché local,Nord,P003,Bouillie Soja Vanille,Légumineuses,60,1500,90000,618,37080,52920,58.8
+2024-02-18,VTE-0057,C008,Score Supermarché Yaoundé,Supermarché,Centre,P002,Bouillie Mil Enrichi,Céréales,255,1256,320280,566,144330,175950,54.9
+2024-02-18,VTE-0385,C009,Marché Central Garoua,Marché local,Nord,P004,Bouillie Arachide Cacao,Légumineuses,70,1600,112000,740,51800,60200,53.8
+2024-02-19,VTE-0405,C009,Marché Central Garoua,Marché local,Nord,P002,Bouillie Mil Enrichi,Céréales,15,1350,20250,720,10800,9450,46.7
+2024-02-21,VTE-0339,C006,UNICEF Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,465,1102,512430,553,257145,255285,49.8
+2024-02-22,VTE-0006,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,144,1157,166608,527,75888,90720,54.5
+2024-02-22,VTE-0378,C005,Vente Directe Usine,Vente directe,Littoral,P005,Bouillie Manioc Nature,Tubercules,13,1100,14300,566,7358,6942,48.5
+2024-02-23,VTE-0094,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,93,1157,107601,532,49476,58125,54.0
+2024-02-23,VTE-0171,C009,Marché Central Garoua,Marché local,Nord,P002,Bouillie Mil Enrichi,Céréales,46,1350,62100,565,25990,36110,58.1
+2024-02-23,VTE-0416,C003,Marché Mokolo,Marché local,Centre,P003,Bouillie Soja Vanille,Légumineuses,80,1500,120000,696,55680,64320,53.6
+2024-02-24,VTE-0050,C003,Marché Mokolo,Marché local,Centre,P008,Bouillie Moringa Miel,Enrichie,69,2100,144900,946,65274,79626,55.0
+2024-02-24,VTE-0172,C008,Score Supermarché Yaoundé,Supermarché,Centre,P004,Bouillie Arachide Cacao,Légumineuses,205,1536,314880,707,144935,169945,54.0
+2024-02-24,VTE-0204,C005,Vente Directe Usine,Vente directe,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,17,1600,27200,671,11407,15793,58.1
+2024-02-24,VTE-0394,C003,Marché Mokolo,Marché local,Centre,P008,Bouillie Moringa Miel,Enrichie,39,2100,81900,946,36894,45006,55.0
+2024-02-24,VTE-0415,C011,CroixRouge Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,669,1037,693753,585,391365,302388,43.6
+2024-02-25,VTE-0206,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P001,Bouillie Maïs Nature,Céréales,101,1150,116150,593,59893,56257,48.4
+2024-02-25,VTE-0451,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P005,Bouillie Manioc Nature,Tubercules,103,1079,111137,612,63036,48101,43.3
+2024-02-26,VTE-0080,C009,Marché Central Garoua,Marché local,Nord,P006,Bouillie Plantain Sucré,Tubercules,19,1250,23750,575,10925,12825,54.0
+2024-02-27,VTE-0443,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P001,Bouillie Maïs Nature,Céréales,51,1143,58293,658,33558,24735,42.4
+2024-02-28,VTE-0238,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P005,Bouillie Manioc Nature,Tubercules,89,1060,94340,444,39516,54824,58.1
+2024-02-28,VTE-0285,C008,Score Supermarché Yaoundé,Supermarché,Centre,P008,Bouillie Moringa Miel,Enrichie,172,2015,346580,894,153768,192812,55.6
+2024-02-29,VTE-0102,C005,Vente Directe Usine,Vente directe,Littoral,P007,Bouillie Multi-Céréales,Céréales,35,1800,63000,861,30135,32865,52.2
+2024-02-29,VTE-0179,C002,Supermarché Dovv Douala,Supermarché,Littoral,P001,Bouillie Maïs Nature,Céréales,52,1113,57876,607,31564,26312,45.5
+2024-03-01,VTE-0295,C002,Supermarché Dovv Douala,Supermarché,Littoral,P008,Bouillie Moringa Miel,Enrichie,218,2023,441014,1043,227374,213640,48.4
+2024-03-01,VTE-0465,C003,Marché Mokolo,Marché local,Centre,P006,Bouillie Plantain Sucré,Tubercules,28,1250,35000,645,18060,16940,48.4
+2024-03-02,VTE-0051,C009,Marché Central Garoua,Marché local,Nord,P006,Bouillie Plantain Sucré,Tubercules,36,1250,45000,590,21240,23760,52.8
+2024-03-03,VTE-0387,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,24,2100,50400,907,21768,28632,56.8
+2024-03-04,VTE-0168,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,70,1100,77000,564,39480,37520,48.7
+2024-03-05,VTE-0356,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,104,1580,164320,830,86320,78000,47.5
+2024-03-06,VTE-0061,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,81,1210,98010,592,47952,50058,51.1
+2024-03-06,VTE-0336,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P007,Bouillie Multi-Céréales,Céréales,81,1715,138915,729,59049,79866,57.5
+2024-03-07,VTE-0406,C003,Marché Mokolo,Marché local,Centre,P001,Bouillie Maïs Nature,Céréales,35,1200,42000,501,17535,24465,58.2
+2024-03-08,VTE-0164,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P001,Bouillie Maïs Nature,Céréales,105,1098,115290,504,52920,62370,54.1
+2024-03-09,VTE-0007,C011,CroixRouge Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,270,1270,342900,602,162540,180360,52.6
+2024-03-09,VTE-0287,C011,CroixRouge Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,786,1062,834732,512,402432,432300,51.8
+2024-03-09,VTE-0470,C009,Marché Central Garoua,Marché local,Nord,P008,Bouillie Moringa Miel,Enrichie,57,2100,119700,902,51414,68286,57.0
+2024-03-10,VTE-0126,C009,Marché Central Garoua,Marché local,Nord,P001,Bouillie Maïs Nature,Céréales,32,1200,38400,517,16544,21856,56.9
+2024-03-11,VTE-0152,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P006,Bouillie Plantain Sucré,Tubercules,82,1101,90282,679,55678,34604,38.3
+2024-03-11,VTE-0462,C010,Hôpital District Ebolowa,Clinique,Sud,P004,Bouillie Arachide Cacao,Légumineuses,140,1505,210700,816,114240,96460,45.8
+2024-03-12,VTE-0267,C009,Marché Central Garoua,Marché local,Nord,P004,Bouillie Arachide Cacao,Légumineuses,43,1600,68800,828,35604,33196,48.2
+2024-03-13,VTE-0447,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P001,Bouillie Maïs Nature,Céréales,68,1165,79220,607,41276,37944,47.9
+2024-03-16,VTE-0434,C003,Marché Mokolo,Marché local,Centre,P006,Bouillie Plantain Sucré,Tubercules,20,1250,25000,595,11900,13100,52.4
+2024-03-17,VTE-0176,C002,Supermarché Dovv Douala,Supermarché,Littoral,P002,Bouillie Mil Enrichi,Céréales,235,1261,296335,735,172725,123610,41.7
+2024-03-17,VTE-0344,C008,Score Supermarché Yaoundé,Supermarché,Centre,P001,Bouillie Maïs Nature,Céréales,95,1139,108205,506,48070,60135,55.6
+2024-03-17,VTE-0432,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,356,1432,509792,827,294412,215380,42.2
+2024-03-18,VTE-0106,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P002,Bouillie Mil Enrichi,Céréales,30,1305,39150,715,21450,17700,45.2
+2024-03-19,VTE-0021,C005,Vente Directe Usine,Vente directe,Littoral,P002,Bouillie Mil Enrichi,Céréales,24,1350,32400,557,13368,19032,58.7
+2024-03-19,VTE-0231,C006,UNICEF Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,508,1021,518668,590,299720,218948,42.2
+2024-03-19,VTE-0404,C010,Hôpital District Ebolowa,Clinique,Sud,P005,Bouillie Manioc Nature,Tubercules,71,1013,71923,497,35287,36636,50.9
+2024-03-21,VTE-0082,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P007,Bouillie Multi-Céréales,Céréales,101,1714,173114,907,91607,81507,47.1
+2024-03-21,VTE-0284,C006,UNICEF Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,435,1159,504165,611,265785,238380,47.3
+2024-03-22,VTE-0072,C002,Supermarché Dovv Douala,Supermarché,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,218,1533,334194,777,169386,164808,49.3
+2024-03-25,VTE-0203,C008,Score Supermarché Yaoundé,Supermarché,Centre,P003,Bouillie Soja Vanille,Légumineuses,260,1401,364260,773,200980,163280,44.8
+2024-03-26,VTE-0111,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,46,1515,69690,660,30360,39330,56.4
+2024-03-27,VTE-0062,C010,Hôpital District Ebolowa,Clinique,Sud,P007,Bouillie Multi-Céréales,Céréales,135,1619,218565,863,116505,102060,46.7
+2024-03-28,VTE-0180,C006,UNICEF Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,648,1006,651888,554,358992,292896,44.9
+2024-03-29,VTE-0074,C003,Marché Mokolo,Marché local,Centre,P004,Bouillie Arachide Cacao,Légumineuses,50,1600,80000,846,42300,37700,47.1
+2024-03-30,VTE-0026,C002,Supermarché Dovv Douala,Supermarché,Littoral,P001,Bouillie Maïs Nature,Céréales,231,1156,267036,482,111342,155694,58.3
+2024-03-30,VTE-0056,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P007,Bouillie Multi-Céréales,Céréales,77,1750,134750,878,67606,67144,49.8
+2024-03-30,VTE-0083,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P006,Bouillie Plantain Sucré,Tubercules,48,1208,57984,663,31824,26160,45.1
+2024-03-30,VTE-0178,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P005,Bouillie Manioc Nature,Tubercules,66,1056,69696,495,32670,37026,53.1
+2024-03-30,VTE-0313,C011,CroixRouge Cameroun,ONG partenaire,Centre,P008,Bouillie Moringa Miel,Enrichie,649,1888,1225312,1126,730774,494538,40.4
+2024-03-31,VTE-0130,C008,Score Supermarché Yaoundé,Supermarché,Centre,P006,Bouillie Plantain Sucré,Tubercules,138,1202,165876,679,93702,72174,43.5
+2024-03-31,VTE-0209,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P003,Bouillie Soja Vanille,Légumineuses,113,1439,162607,625,70625,91982,56.6
+2024-04-01,VTE-0034,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P007,Bouillie Multi-Céréales,Céréales,48,1771,85008,840,40320,44688,52.6
+2024-04-02,VTE-0146,C005,Vente Directe Usine,Vente directe,Littoral,P002,Bouillie Mil Enrichi,Céréales,35,1350,47250,568,19880,27370,57.9
+2024-04-02,VTE-0288,C009,Marché Central Garoua,Marché local,Nord,P007,Bouillie Multi-Céréales,Céréales,12,1800,21600,973,11676,9924,45.9
+2024-04-02,VTE-0342,C010,Hôpital District Ebolowa,Clinique,Sud,P003,Bouillie Soja Vanille,Légumineuses,103,1353,139359,795,81885,57474,41.2
+2024-04-03,VTE-0375,C003,Marché Mokolo,Marché local,Centre,P005,Bouillie Manioc Nature,Tubercules,24,1100,26400,552,13248,13152,49.8
+2024-04-04,VTE-0468,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P005,Bouillie Manioc Nature,Tubercules,97,1069,103693,481,46657,57036,55.0
+2024-04-06,VTE-0163,C003,Marché Mokolo,Marché local,Centre,P007,Bouillie Multi-Céréales,Céréales,12,1800,21600,786,9432,12168,56.3
+2024-04-06,VTE-0301,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P001,Bouillie Maïs Nature,Céréales,93,1169,108717,580,53940,54777,50.4
+2024-04-06,VTE-0371,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P007,Bouillie Multi-Céréales,Céréales,70,1778,124460,926,64820,59640,47.9
+2024-04-07,VTE-0098,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P005,Bouillie Manioc Nature,Tubercules,104,1085,112840,482,50128,62712,55.6
+2024-04-07,VTE-0144,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,747,1338,999486,762,569214,430272,43.0
+2024-04-07,VTE-0398,C010,Hôpital District Ebolowa,Clinique,Sud,P003,Bouillie Soja Vanille,Légumineuses,99,1388,137412,776,76824,60588,44.1
+2024-04-07,VTE-0440,C006,UNICEF Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,224,1029,230496,534,119616,110880,48.1
+2024-04-08,VTE-0240,C006,UNICEF Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,298,1192,355216,747,222606,132610,37.3
+2024-04-08,VTE-0407,C002,Supermarché Dovv Douala,Supermarché,Littoral,P001,Bouillie Maïs Nature,Céréales,196,1125,220500,555,108780,111720,50.7
+2024-04-09,VTE-0227,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,16,2100,33600,1170,18720,14880,44.3
+2024-04-09,VTE-0261,C006,UNICEF Cameroun,ONG partenaire,Centre,P008,Bouillie Moringa Miel,Enrichie,661,1821,1203681,1062,701982,501699,41.7
+2024-04-10,VTE-0040,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,39,1599,62361,745,29055,33306,53.4
+2024-04-12,VTE-0067,C011,CroixRouge Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,756,1313,992628,893,675108,317520,32.0
+2024-04-12,VTE-0127,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P004,Bouillie Arachide Cacao,Légumineuses,24,1563,37512,875,21000,16512,44.0
+2024-04-12,VTE-0214,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P005,Bouillie Manioc Nature,Tubercules,117,1018,119106,558,65286,53820,45.2
+2024-04-13,VTE-0225,C010,Hôpital District Ebolowa,Clinique,Sud,P008,Bouillie Moringa Miel,Enrichie,136,1962,266832,1053,143208,123624,46.3
+2024-04-13,VTE-0473,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P002,Bouillie Mil Enrichi,Céréales,52,1195,62140,753,39156,22984,37.0
+2024-04-14,VTE-0022,C003,Marché Mokolo,Marché local,Centre,P006,Bouillie Plantain Sucré,Tubercules,60,1250,75000,617,37020,37980,50.6
+2024-04-15,VTE-0101,C003,Marché Mokolo,Marché local,Centre,P005,Bouillie Manioc Nature,Tubercules,20,1100,22000,523,10460,11540,52.5
+2024-04-15,VTE-0169,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P001,Bouillie Maïs Nature,Céréales,58,1175,68150,499,28942,39208,57.5
+2024-04-17,VTE-0255,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P006,Bouillie Plantain Sucré,Tubercules,47,1224,57528,629,29563,27965,48.6
+2024-04-19,VTE-0003,C008,Score Supermarché Yaoundé,Supermarché,Centre,P002,Bouillie Mil Enrichi,Céréales,83,1269,105327,652,54116,51211,48.6
+2024-04-20,VTE-0347,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,11,2100,23100,991,10901,12199,52.8
+2024-04-21,VTE-0010,C002,Supermarché Dovv Douala,Supermarché,Littoral,P002,Bouillie Mil Enrichi,Céréales,85,1259,107015,667,56695,50320,47.0
+2024-04-23,VTE-0148,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,514,1373,705722,867,445638,260084,36.9
+2024-04-23,VTE-0264,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P007,Bouillie Multi-Céréales,Céréales,55,1724,94820,759,41745,53075,56.0
+2024-04-24,VTE-0271,C010,Hôpital District Ebolowa,Clinique,Sud,P005,Bouillie Manioc Nature,Tubercules,47,1009,47423,530,24910,22513,47.5
+2024-04-26,VTE-0430,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P001,Bouillie Maïs Nature,Céréales,101,1153,116453,553,55853,60600,52.0
+2024-04-28,VTE-0413,C009,Marché Central Garoua,Marché local,Nord,P007,Bouillie Multi-Céréales,Céréales,34,1800,61200,776,26384,34816,56.9
+2024-04-28,VTE-0469,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P001,Bouillie Maïs Nature,Céréales,75,1133,84975,630,47250,37725,44.4
+2024-04-29,VTE-0041,C009,Marché Central Garoua,Marché local,Nord,P006,Bouillie Plantain Sucré,Tubercules,11,1250,13750,690,7590,6160,44.8
+2024-04-29,VTE-0300,C002,Supermarché Dovv Douala,Supermarché,Littoral,P005,Bouillie Manioc Nature,Tubercules,203,1019,206857,512,103936,102921,49.8
+2024-04-29,VTE-0442,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P006,Bouillie Plantain Sucré,Tubercules,49,1121,54929,671,32879,22050,40.1
+2024-05-01,VTE-0043,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P008,Bouillie Moringa Miel,Enrichie,27,1998,53946,888,23976,29970,55.6
+2024-05-02,VTE-0024,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P004,Bouillie Arachide Cacao,Légumineuses,31,1526,47306,670,20770,26536,56.1
+2024-05-02,VTE-0373,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,46,1100,50600,554,25484,25116,49.6
+2024-05-04,VTE-0390,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P001,Bouillie Maïs Nature,Céréales,94,1153,108382,571,53674,54708,50.5
+2024-05-06,VTE-0438,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P002,Bouillie Mil Enrichi,Céréales,64,1209,77376,610,39040,38336,49.5
+2024-05-07,VTE-0159,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P006,Bouillie Plantain Sucré,Tubercules,69,1176,81144,577,39813,41331,50.9
+2024-05-08,VTE-0383,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P001,Bouillie Maïs Nature,Céréales,35,1142,39970,617,21595,18375,46.0
+2024-05-09,VTE-0257,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P002,Bouillie Mil Enrichi,Céréales,53,1219,64607,663,35139,29468,45.6
+2024-05-10,VTE-0230,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P006,Bouillie Plantain Sucré,Tubercules,79,1206,95274,531,41949,53325,56.0
+2024-05-11,VTE-0322,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,66,1100,72600,610,40260,32340,44.5
+2024-05-11,VTE-0349,C006,UNICEF Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,621,1065,661365,647,401787,259578,39.2
+2024-05-12,VTE-0147,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P003,Bouillie Soja Vanille,Légumineuses,107,1433,153331,757,80999,72332,47.2
+2024-05-13,VTE-0048,C006,UNICEF Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,534,1563,834642,798,426132,408510,48.9
+2024-05-13,VTE-0140,C011,CroixRouge Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,392,974,381808,575,225400,156408,41.0
+2024-05-14,VTE-0400,C009,Marché Central Garoua,Marché local,Nord,P006,Bouillie Plantain Sucré,Tubercules,68,1250,85000,500,34000,51000,60.0
+2024-05-15,VTE-0330,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,55,1426,78430,854,46970,31460,40.1
+2024-05-17,VTE-0028,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P002,Bouillie Mil Enrichi,Céréales,118,1289,152102,612,72216,79886,52.5
+2024-05-17,VTE-0340,C008,Score Supermarché Yaoundé,Supermarché,Centre,P006,Bouillie Plantain Sucré,Tubercules,143,1201,171743,585,83655,88088,51.3
+2024-05-18,VTE-0343,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P007,Bouillie Multi-Céréales,Céréales,139,1662,231018,762,105918,125100,54.2
+2024-05-20,VTE-0064,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,14,2100,29400,852,11928,17472,59.4
+2024-05-20,VTE-0155,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P003,Bouillie Soja Vanille,Légumineuses,103,1345,138535,717,73851,64684,46.7
+2024-05-20,VTE-0399,C010,Hôpital District Ebolowa,Clinique,Sud,P003,Bouillie Soja Vanille,Légumineuses,38,1369,52022,708,26904,25118,48.3
+2024-05-21,VTE-0457,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P005,Bouillie Manioc Nature,Tubercules,69,1051,72519,583,40227,32292,44.5
+2024-05-23,VTE-0044,C002,Supermarché Dovv Douala,Supermarché,Littoral,P001,Bouillie Maïs Nature,Céréales,285,1150,327750,642,182970,144780,44.2
+2024-05-25,VTE-0013,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P001,Bouillie Maïs Nature,Céréales,104,1147,119288,519,53976,65312,54.8
+2024-05-26,VTE-0117,C009,Marché Central Garoua,Marché local,Nord,P006,Bouillie Plantain Sucré,Tubercules,62,1250,77500,553,34286,43214,55.8
+2024-05-26,VTE-0218,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P001,Bouillie Maïs Nature,Céréales,86,1194,102684,553,47558,55126,53.7
+2024-05-26,VTE-0220,C011,CroixRouge Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,349,898,313402,562,196138,117264,37.4
+2024-05-26,VTE-0479,C008,Score Supermarché Yaoundé,Supermarché,Centre,P003,Bouillie Soja Vanille,Légumineuses,158,1433,226414,821,129718,96696,42.7
+2024-05-27,VTE-0444,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P006,Bouillie Plantain Sucré,Tubercules,108,1200,129600,561,60588,69012,53.2
+2024-05-29,VTE-0202,C009,Marché Central Garoua,Marché local,Nord,P006,Bouillie Plantain Sucré,Tubercules,23,1250,28750,509,11707,17043,59.3
+2024-05-30,VTE-0212,C008,Score Supermarché Yaoundé,Supermarché,Centre,P003,Bouillie Soja Vanille,Légumineuses,85,1424,121040,768,65280,55760,46.1
+2024-05-31,VTE-0221,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P001,Bouillie Maïs Nature,Céréales,75,1072,80400,500,37500,42900,53.4
+2024-06-01,VTE-0161,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,38,2100,79800,1040,39520,40280,50.5
+2024-06-02,VTE-0428,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P007,Bouillie Multi-Céréales,Céréales,30,1730,51900,985,29550,22350,43.1
+2024-06-03,VTE-0422,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P005,Bouillie Manioc Nature,Tubercules,48,1088,52224,495,23760,28464,54.5
+2024-06-04,VTE-0039,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,79,1571,124109,889,70231,53878,43.4
+2024-06-04,VTE-0412,C002,Supermarché Dovv Douala,Supermarché,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,295,1510,445450,666,196470,248980,55.9
+2024-06-05,VTE-0431,C009,Marché Central Garoua,Marché local,Nord,P001,Bouillie Maïs Nature,Céréales,50,1200,60000,584,29200,30800,51.3
+2024-06-08,VTE-0386,C006,UNICEF Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,243,1238,300834,732,177876,122958,40.9
+2024-06-08,VTE-0461,C010,Hôpital District Ebolowa,Clinique,Sud,P006,Bouillie Plantain Sucré,Tubercules,87,1140,99180,541,47067,52113,52.5
+2024-06-09,VTE-0328,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,787,1397,1099439,882,694134,405305,36.9
+2024-06-09,VTE-0354,C006,UNICEF Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,473,923,436579,510,241230,195349,44.7
+2024-06-12,VTE-0035,C005,Vente Directe Usine,Vente directe,Littoral,P002,Bouillie Mil Enrichi,Céréales,28,1350,37800,566,15848,21952,58.1
+2024-06-12,VTE-0113,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P002,Bouillie Mil Enrichi,Céréales,31,1324,41044,626,19406,21638,52.7
+2024-06-12,VTE-0466,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P007,Bouillie Multi-Céréales,Céréales,58,1760,102080,989,57362,44718,43.8
+2024-06-14,VTE-0079,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P001,Bouillie Maïs Nature,Céréales,38,1165,44270,656,24928,19342,43.7
+2024-06-14,VTE-0419,C010,Hôpital District Ebolowa,Clinique,Sud,P004,Bouillie Arachide Cacao,Légumineuses,102,1459,148818,736,75072,73746,49.6
+2024-06-15,VTE-0114,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,5,2100,10500,1104,5520,4980,47.4
+2024-06-16,VTE-0038,C002,Supermarché Dovv Douala,Supermarché,Littoral,P008,Bouillie Moringa Miel,Enrichie,52,1998,103896,938,48776,55120,53.1
+2024-06-16,VTE-0054,C003,Marché Mokolo,Marché local,Centre,P002,Bouillie Mil Enrichi,Céréales,41,1350,55350,749,30709,24641,44.5
+2024-06-18,VTE-0087,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P002,Bouillie Mil Enrichi,Céréales,50,1327,66350,609,30450,35900,54.1
+2024-06-18,VTE-0193,C005,Vente Directe Usine,Vente directe,Littoral,P001,Bouillie Maïs Nature,Céréales,37,1200,44400,523,19351,25049,56.4
+2024-06-18,VTE-0235,C006,UNICEF Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,423,885,374355,549,232227,142128,38.0
+2024-06-18,VTE-0260,C006,UNICEF Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,440,1335,587400,749,329560,257840,43.9
+2024-06-18,VTE-0265,C008,Score Supermarché Yaoundé,Supermarché,Centre,P008,Bouillie Moringa Miel,Enrichie,164,1999,327836,943,154652,173184,52.8
+2024-06-19,VTE-0455,C008,Score Supermarché Yaoundé,Supermarché,Centre,P007,Bouillie Multi-Céréales,Céréales,240,1732,415680,820,196800,218880,52.7
+2024-06-20,VTE-0348,C005,Vente Directe Usine,Vente directe,Littoral,P006,Bouillie Plantain Sucré,Tubercules,28,1250,35000,612,17136,17864,51.0
+2024-06-20,VTE-0429,C006,UNICEF Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,626,1453,909578,755,472630,436948,48.0
+2024-06-21,VTE-0162,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P003,Bouillie Soja Vanille,Légumineuses,63,1425,89775,718,45234,44541,49.6
+2024-06-21,VTE-0417,C011,CroixRouge Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,746,1200,895200,706,526676,368524,41.2
+2024-06-22,VTE-0309,C009,Marché Central Garoua,Marché local,Nord,P001,Bouillie Maïs Nature,Céréales,30,1200,36000,555,16650,19350,53.8
+2024-06-24,VTE-0292,C008,Score Supermarché Yaoundé,Supermarché,Centre,P002,Bouillie Mil Enrichi,Céréales,108,1284,138672,569,61452,77220,55.7
+2024-06-26,VTE-0337,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P003,Bouillie Soja Vanille,Légumineuses,78,1427,111306,768,59904,51402,46.2
+2024-06-26,VTE-0366,C008,Score Supermarché Yaoundé,Supermarché,Centre,P004,Bouillie Arachide Cacao,Légumineuses,256,1545,395520,719,184064,211456,53.5
+2024-06-27,VTE-0136,C008,Score Supermarché Yaoundé,Supermarché,Centre,P005,Bouillie Manioc Nature,Tubercules,105,1041,109305,559,58695,50610,46.3
+2024-06-28,VTE-0441,C010,Hôpital District Ebolowa,Clinique,Sud,P008,Bouillie Moringa Miel,Enrichie,109,1974,215166,855,93195,121971,56.7
+2024-06-29,VTE-0418,C006,UNICEF Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,580,1073,622340,627,363660,258680,41.6
+2024-06-29,VTE-0456,C006,UNICEF Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,441,880,388080,612,269892,118188,30.5
+2024-07-01,VTE-0331,C003,Marché Mokolo,Marché local,Centre,P002,Bouillie Mil Enrichi,Céréales,25,1350,33750,739,18475,15275,45.3
+2024-07-01,VTE-0424,C003,Marché Mokolo,Marché local,Centre,P003,Bouillie Soja Vanille,Légumineuses,43,1500,64500,688,29584,34916,54.1
+2024-07-02,VTE-0232,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,184,1199,220616,537,98808,121808,55.2
+2024-07-03,VTE-0316,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P001,Bouillie Maïs Nature,Céréales,50,1133,56650,533,26650,30000,53.0
+2024-07-05,VTE-0199,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P004,Bouillie Arachide Cacao,Légumineuses,78,1573,122694,836,65208,57486,46.9
+2024-07-06,VTE-0304,C010,Hôpital District Ebolowa,Clinique,Sud,P005,Bouillie Manioc Nature,Tubercules,117,1014,118638,476,55692,62946,53.1
+2024-07-08,VTE-0104,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P006,Bouillie Plantain Sucré,Tubercules,43,1222,52546,553,23779,28767,54.7
+2024-07-09,VTE-0121,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P006,Bouillie Plantain Sucré,Tubercules,58,1231,71398,669,38802,32596,45.7
+2024-07-09,VTE-0149,C005,Vente Directe Usine,Vente directe,Littoral,P005,Bouillie Manioc Nature,Tubercules,34,1100,37400,590,20060,17340,46.4
+2024-07-10,VTE-0125,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P003,Bouillie Soja Vanille,Légumineuses,28,1477,41356,722,20216,21140,51.1
+2024-07-10,VTE-0138,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,48,1100,52800,560,26880,25920,49.1
+2024-07-11,VTE-0302,C011,CroixRouge Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,523,1375,719125,667,348841,370284,51.5
+2024-07-12,VTE-0084,C005,Vente Directe Usine,Vente directe,Littoral,P005,Bouillie Manioc Nature,Tubercules,13,1100,14300,471,6123,8177,57.2
+2024-07-12,VTE-0396,C006,UNICEF Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,456,1215,554040,716,326496,227544,41.1
+2024-07-14,VTE-0063,C011,CroixRouge Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,376,1556,585056,982,369232,215824,36.9
+2024-07-15,VTE-0011,C006,UNICEF Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,522,1478,771516,791,412902,358614,46.5
+2024-07-15,VTE-0312,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P005,Bouillie Manioc Nature,Tubercules,111,1047,116217,450,49950,66267,57.0
+2024-07-16,VTE-0384,C008,Score Supermarché Yaoundé,Supermarché,Centre,P004,Bouillie Arachide Cacao,Légumineuses,238,1472,350336,691,164458,185878,53.1
+2024-07-17,VTE-0143,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P001,Bouillie Maïs Nature,Céréales,94,1158,108852,590,55460,53392,49.1
+2024-07-17,VTE-0224,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P006,Bouillie Plantain Sucré,Tubercules,90,1247,112230,649,58410,53820,48.0
+2024-07-17,VTE-0471,C008,Score Supermarché Yaoundé,Supermarché,Centre,P008,Bouillie Moringa Miel,Enrichie,85,2020,171700,916,77860,93840,54.7
+2024-07-18,VTE-0360,C005,Vente Directe Usine,Vente directe,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,20,1600,32000,829,16580,15420,48.2
+2024-07-19,VTE-0252,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,28,1100,30800,492,13776,17024,55.3
+2024-07-20,VTE-0205,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P008,Bouillie Moringa Miel,Enrichie,135,1880,253800,1081,145935,107865,42.5
+2024-07-20,VTE-0433,C008,Score Supermarché Yaoundé,Supermarché,Centre,P002,Bouillie Mil Enrichi,Céréales,106,1280,135680,710,75260,60420,44.5
+2024-07-20,VTE-0459,C011,CroixRouge Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,289,1241,358649,725,209525,149124,41.6
+2024-07-21,VTE-0055,C009,Marché Central Garoua,Marché local,Nord,P001,Bouillie Maïs Nature,Céréales,48,1200,57600,530,25440,32160,55.8
+2024-07-22,VTE-0272,C006,UNICEF Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,444,978,434232,635,281940,152292,35.1
+2024-07-22,VTE-0307,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P003,Bouillie Soja Vanille,Légumineuses,104,1491,155064,655,68120,86944,56.1
+2024-07-22,VTE-0421,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P001,Bouillie Maïs Nature,Céréales,56,1164,65184,579,32424,32760,50.3
+2024-07-23,VTE-0317,C006,UNICEF Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,615,1515,931725,869,534435,397290,42.6
+2024-07-23,VTE-0426,C010,Hôpital District Ebolowa,Clinique,Sud,P004,Bouillie Arachide Cacao,Légumineuses,123,1511,185853,723,88929,96924,52.2
+2024-07-24,VTE-0037,C002,Supermarché Dovv Douala,Supermarché,Littoral,P008,Bouillie Moringa Miel,Enrichie,271,2007,543897,1124,304604,239293,44.0
+2024-07-25,VTE-0234,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,106,1157,122642,633,67098,55544,45.3
+2024-07-26,VTE-0281,C006,UNICEF Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,698,1026,716148,677,472546,243602,34.0
+2024-07-26,VTE-0475,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P007,Bouillie Multi-Céréales,Céréales,112,1772,198464,896,100352,98112,49.4
+2024-07-28,VTE-0472,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P005,Bouillie Manioc Nature,Tubercules,72,1088,78336,558,40176,38160,48.7
+2024-07-29,VTE-0187,C008,Score Supermarché Yaoundé,Supermarché,Centre,P001,Bouillie Maïs Nature,Céréales,66,1148,75768,540,35640,40128,53.0
+2024-07-29,VTE-0286,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P004,Bouillie Arachide Cacao,Légumineuses,25,1590,39750,792,19800,19950,50.2
+2024-07-30,VTE-0045,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P006,Bouillie Plantain Sucré,Tubercules,78,1189,92742,517,40326,52416,56.5
+2024-07-30,VTE-0091,C008,Score Supermarché Yaoundé,Supermarché,Centre,P007,Bouillie Multi-Céréales,Céréales,139,1697,235883,749,104111,131772,55.9
+2024-07-30,VTE-0107,C010,Hôpital District Ebolowa,Clinique,Sud,P004,Bouillie Arachide Cacao,Légumineuses,100,1513,151300,739,73900,77400,51.2
+2024-07-30,VTE-0367,C005,Vente Directe Usine,Vente directe,Littoral,P003,Bouillie Soja Vanille,Légumineuses,24,1500,36000,603,14472,21528,59.8
+2024-07-31,VTE-0411,C006,UNICEF Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,472,1017,480024,621,293112,186912,38.9
+2024-08-02,VTE-0341,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P006,Bouillie Plantain Sucré,Tubercules,66,1197,79002,556,36696,42306,53.6
+2024-08-03,VTE-0353,C011,CroixRouge Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,273,1606,438438,819,223587,214851,49.0
+2024-08-03,VTE-0380,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,28,2100,58800,996,27888,30912,52.6
+2024-08-04,VTE-0005,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P003,Bouillie Soja Vanille,Légumineuses,81,1495,121095,692,56052,65043,53.7
+2024-08-04,VTE-0020,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P007,Bouillie Multi-Céréales,Céréales,30,1742,52260,875,26250,26010,49.8
+2024-08-06,VTE-0303,C011,CroixRouge Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,467,896,418432,515,240505,177927,42.5
+2024-08-07,VTE-0029,C005,Vente Directe Usine,Vente directe,Littoral,P002,Bouillie Mil Enrichi,Céréales,21,1350,28350,694,14574,13776,48.6
+2024-08-07,VTE-0263,C003,Marché Mokolo,Marché local,Centre,P001,Bouillie Maïs Nature,Céréales,50,1200,60000,527,26350,33650,56.1
+2024-08-08,VTE-0370,C005,Vente Directe Usine,Vente directe,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,5,1600,8000,780,3900,4100,51.2
+2024-08-10,VTE-0097,C003,Marché Mokolo,Marché local,Centre,P001,Bouillie Maïs Nature,Céréales,22,1200,26400,544,11968,14432,54.7
+2024-08-12,VTE-0397,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,79,1100,86900,563,44477,42423,48.8
+2024-08-14,VTE-0123,C006,UNICEF Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,626,923,577798,456,285456,292342,50.6
+2024-08-14,VTE-0124,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P007,Bouillie Multi-Céréales,Céréales,124,1649,204476,869,107756,96720,47.3
+2024-08-14,VTE-0361,C011,CroixRouge Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,334,1271,424514,641,214094,210420,49.6
+2024-08-15,VTE-0004,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P001,Bouillie Maïs Nature,Céréales,109,1179,128511,503,54827,73684,57.3
+2024-08-15,VTE-0355,C006,UNICEF Cameroun,ONG partenaire,Centre,P008,Bouillie Moringa Miel,Enrichie,623,1855,1155665,1127,702121,453544,39.2
+2024-08-16,VTE-0237,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,35,1444,50540,722,25270,25270,50.0
+2024-08-18,VTE-0207,C008,Score Supermarché Yaoundé,Supermarché,Centre,P003,Bouillie Soja Vanille,Légumineuses,296,1418,419728,727,215192,204536,48.7
+2024-08-20,VTE-0320,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P001,Bouillie Maïs Nature,Céréales,53,1189,63017,577,30581,32436,51.5
+2024-08-21,VTE-0182,C005,Vente Directe Usine,Vente directe,Littoral,P007,Bouillie Multi-Céréales,Céréales,35,1800,63000,950,33250,29750,47.2
+2024-08-22,VTE-0153,C003,Marché Mokolo,Marché local,Centre,P006,Bouillie Plantain Sucré,Tubercules,33,1250,41250,656,21648,19602,47.5
+2024-08-23,VTE-0338,C006,UNICEF Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,212,999,211788,553,117236,94552,44.6
+2024-08-25,VTE-0052,C005,Vente Directe Usine,Vente directe,Littoral,P002,Bouillie Mil Enrichi,Céréales,10,1350,13500,574,5740,7760,57.5
+2024-08-25,VTE-0352,C011,CroixRouge Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,371,1254,465234,823,305333,159901,34.4
+2024-08-26,VTE-0105,C005,Vente Directe Usine,Vente directe,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,22,1600,35200,784,17248,17952,51.0
+2024-08-28,VTE-0150,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P002,Bouillie Mil Enrichi,Céréales,80,1290,103200,648,51840,51360,49.8
+2024-08-28,VTE-0192,C008,Score Supermarché Yaoundé,Supermarché,Centre,P003,Bouillie Soja Vanille,Légumineuses,69,1399,96531,677,46713,49818,51.6
+2024-08-28,VTE-0277,C008,Score Supermarché Yaoundé,Supermarché,Centre,P001,Bouillie Maïs Nature,Céréales,60,1105,66300,542,32520,33780,51.0
+2024-08-29,VTE-0290,C008,Score Supermarché Yaoundé,Supermarché,Centre,P003,Bouillie Soja Vanille,Légumineuses,106,1393,147658,744,78864,68794,46.6
+2024-08-29,VTE-0445,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P006,Bouillie Plantain Sucré,Tubercules,46,1204,55384,542,24932,30452,55.0
+2024-08-30,VTE-0134,C003,Marché Mokolo,Marché local,Centre,P003,Bouillie Soja Vanille,Légumineuses,11,1500,16500,654,7194,9306,56.4
+2024-08-30,VTE-0358,C009,Marché Central Garoua,Marché local,Nord,P001,Bouillie Maïs Nature,Céréales,13,1200,15600,628,8164,7436,47.7
+2024-08-31,VTE-0236,C009,Marché Central Garoua,Marché local,Nord,P001,Bouillie Maïs Nature,Céréales,24,1200,28800,608,14592,14208,49.3
+2024-08-31,VTE-0294,C010,Hôpital District Ebolowa,Clinique,Sud,P001,Bouillie Maïs Nature,Céréales,142,1074,152508,577,81934,70574,46.3
+2024-09-01,VTE-0157,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P001,Bouillie Maïs Nature,Céréales,24,1168,28032,620,14880,13152,46.9
+2024-09-02,VTE-0092,C010,Hôpital District Ebolowa,Clinique,Sud,P004,Bouillie Arachide Cacao,Légumineuses,50,1469,73450,845,42250,31200,42.5
+2024-09-03,VTE-0139,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,120,1172,140640,672,80640,60000,42.7
+2024-09-03,VTE-0298,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P006,Bouillie Plantain Sucré,Tubercules,95,1200,114000,682,64790,49210,43.2
+2024-09-04,VTE-0185,C010,Hôpital District Ebolowa,Clinique,Sud,P008,Bouillie Moringa Miel,Enrichie,53,1905,100965,1102,58406,42559,42.2
+2024-09-04,VTE-0427,C003,Marché Mokolo,Marché local,Centre,P008,Bouillie Moringa Miel,Enrichie,22,2100,46200,1040,22880,23320,50.5
+2024-09-06,VTE-0154,C006,UNICEF Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,520,1255,652600,601,312520,340080,52.1
+2024-09-06,VTE-0437,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,91,1551,141141,828,75348,65793,46.6
+2024-09-07,VTE-0408,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,16,1100,17600,504,8064,9536,54.2
+2024-09-08,VTE-0410,C002,Supermarché Dovv Douala,Supermarché,Littoral,P008,Bouillie Moringa Miel,Enrichie,255,1970,502350,961,245055,257295,51.2
+2024-09-11,VTE-0027,C006,UNICEF Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,370,949,351130,572,211640,139490,39.7
+2024-09-11,VTE-0196,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P001,Bouillie Maïs Nature,Céréales,33,1176,38808,487,16071,22737,58.6
+2024-09-12,VTE-0031,C010,Hôpital District Ebolowa,Clinique,Sud,P003,Bouillie Soja Vanille,Légumineuses,77,1408,108416,786,60522,47894,44.2
+2024-09-12,VTE-0392,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,288,1152,331776,652,187776,144000,43.4
+2024-09-13,VTE-0436,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P003,Bouillie Soja Vanille,Légumineuses,117,1490,174330,734,85878,88452,50.7
+2024-09-17,VTE-0198,C009,Marché Central Garoua,Marché local,Nord,P004,Bouillie Arachide Cacao,Légumineuses,68,1600,108800,883,60044,48756,44.8
+2024-09-17,VTE-0452,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P002,Bouillie Mil Enrichi,Céréales,60,1317,79020,669,40140,38880,49.2
+2024-09-18,VTE-0223,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P005,Bouillie Manioc Nature,Tubercules,108,1063,114804,603,65124,49680,43.3
+2024-09-18,VTE-0315,C009,Marché Central Garoua,Marché local,Nord,P004,Bouillie Arachide Cacao,Légumineuses,31,1600,49600,813,25203,24397,49.2
+2024-09-18,VTE-0335,C005,Vente Directe Usine,Vente directe,Littoral,P007,Bouillie Multi-Céréales,Céréales,19,1800,34200,936,17784,16416,48.0
+2024-09-18,VTE-0351,C008,Score Supermarché Yaoundé,Supermarché,Centre,P008,Bouillie Moringa Miel,Enrichie,277,2029,562033,1046,289742,272291,48.4
+2024-09-19,VTE-0213,C005,Vente Directe Usine,Vente directe,Littoral,P006,Bouillie Plantain Sucré,Tubercules,40,1250,50000,627,25080,24920,49.8
+2024-09-19,VTE-0256,C003,Marché Mokolo,Marché local,Centre,P003,Bouillie Soja Vanille,Légumineuses,33,1500,49500,653,21549,27951,56.5
+2024-09-21,VTE-0239,C006,UNICEF Cameroun,ONG partenaire,Centre,P008,Bouillie Moringa Miel,Enrichie,698,1881,1312938,1142,797116,515822,39.3
+2024-09-21,VTE-0326,C009,Marché Central Garoua,Marché local,Nord,P001,Bouillie Maïs Nature,Céréales,43,1200,51600,528,22704,28896,56.0
+2024-09-22,VTE-0314,C005,Vente Directe Usine,Vente directe,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,7,1600,11200,841,5887,5313,47.4
+2024-09-23,VTE-0170,C005,Vente Directe Usine,Vente directe,Littoral,P003,Bouillie Soja Vanille,Légumineuses,31,1500,46500,799,24769,21731,46.7
+2024-09-24,VTE-0108,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P008,Bouillie Moringa Miel,Enrichie,93,2007,186651,1000,93000,93651,50.2
+2024-09-24,VTE-0173,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P006,Bouillie Plantain Sucré,Tubercules,120,1152,138240,532,63840,74400,53.8
+2024-09-24,VTE-0368,C003,Marché Mokolo,Marché local,Centre,P006,Bouillie Plantain Sucré,Tubercules,46,1250,57500,594,27324,30176,52.5
+2024-09-25,VTE-0359,C002,Supermarché Dovv Douala,Supermarché,Littoral,P002,Bouillie Mil Enrichi,Céréales,117,1268,148356,558,65286,83070,56.0
+2024-09-25,VTE-0463,C003,Marché Mokolo,Marché local,Centre,P007,Bouillie Multi-Céréales,Céréales,28,1800,50400,909,25452,24948,49.5
+2024-09-29,VTE-0374,C005,Vente Directe Usine,Vente directe,Littoral,P007,Bouillie Multi-Céréales,Céréales,17,1800,30600,966,16422,14178,46.3
+2024-09-30,VTE-0166,C010,Hôpital District Ebolowa,Clinique,Sud,P001,Bouillie Maïs Nature,Céréales,106,1056,111936,607,64342,47594,42.5
+2024-09-30,VTE-0248,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P002,Bouillie Mil Enrichi,Céréales,116,1300,150800,550,63800,87000,57.7
+2024-10-02,VTE-0241,C009,Marché Central Garoua,Marché local,Nord,P001,Bouillie Maïs Nature,Céréales,18,1200,21600,520,9360,12240,56.7
+2024-10-02,VTE-0403,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,87,1545,134415,836,72732,61683,45.9
+2024-10-03,VTE-0363,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,13,2100,27300,1166,15158,12142,44.5
+2024-10-06,VTE-0446,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,80,1100,88000,525,42000,46000,52.3
+2024-10-07,VTE-0174,C008,Score Supermarché Yaoundé,Supermarché,Centre,P004,Bouillie Arachide Cacao,Légumineuses,226,1477,333802,725,163850,169952,50.9
+2024-10-08,VTE-0066,C008,Score Supermarché Yaoundé,Supermarché,Centre,P001,Bouillie Maïs Nature,Céréales,72,1147,82584,506,36432,46152,55.9
+2024-10-08,VTE-0197,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P002,Bouillie Mil Enrichi,Céréales,97,1285,124645,678,65766,58879,47.2
+2024-10-08,VTE-0420,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P005,Bouillie Manioc Nature,Tubercules,66,1047,69102,519,34254,34848,50.4
+2024-10-09,VTE-0266,C002,Supermarché Dovv Douala,Supermarché,Littoral,P003,Bouillie Soja Vanille,Légumineuses,215,1410,303150,802,172430,130720,43.1
+2024-10-09,VTE-0270,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,14,2100,29400,963,13482,15918,54.1
+2024-10-09,VTE-0305,C009,Marché Central Garoua,Marché local,Nord,P008,Bouillie Moringa Miel,Enrichie,32,2100,67200,964,30848,36352,54.1
+2024-10-11,VTE-0306,C008,Score Supermarché Yaoundé,Supermarché,Centre,P005,Bouillie Manioc Nature,Tubercules,128,1035,132480,576,73728,58752,44.3
+2024-10-12,VTE-0395,C011,CroixRouge Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,649,1033,670417,504,327096,343321,51.2
+2024-10-13,VTE-0321,C002,Supermarché Dovv Douala,Supermarché,Littoral,P005,Bouillie Manioc Nature,Tubercules,137,1015,139055,581,79597,59458,42.8
+2024-10-14,VTE-0346,C010,Hôpital District Ebolowa,Clinique,Sud,P001,Bouillie Maïs Nature,Céréales,80,1132,90560,511,40880,49680,54.9
+2024-10-14,VTE-0454,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P001,Bouillie Maïs Nature,Céréales,25,1185,29625,582,14550,15075,50.9
+2024-10-15,VTE-0076,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P008,Bouillie Moringa Miel,Enrichie,99,1950,193050,1005,99495,93555,48.5
+2024-10-15,VTE-0323,C008,Score Supermarché Yaoundé,Supermarché,Centre,P004,Bouillie Arachide Cacao,Légumineuses,243,1525,370575,839,203877,166698,45.0
+2024-10-16,VTE-0069,C009,Marché Central Garoua,Marché local,Nord,P006,Bouillie Plantain Sucré,Tubercules,59,1250,73750,554,32686,41064,55.7
+2024-10-16,VTE-0274,C010,Hôpital District Ebolowa,Clinique,Sud,P003,Bouillie Soja Vanille,Légumineuses,124,1348,167152,825,102300,64852,38.8
+2024-10-16,VTE-0464,C003,Marché Mokolo,Marché local,Centre,P006,Bouillie Plantain Sucré,Tubercules,18,1250,22500,611,10998,11502,51.1
+2024-10-17,VTE-0047,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P007,Bouillie Multi-Céréales,Céréales,104,1713,178152,788,81952,96200,54.0
+2024-10-18,VTE-0017,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P006,Bouillie Plantain Sucré,Tubercules,89,1207,107423,653,58117,49306,45.9
+2024-10-18,VTE-0279,C003,Marché Mokolo,Marché local,Centre,P007,Bouillie Multi-Céréales,Céréales,58,1800,104400,825,47850,56550,54.2
+2024-10-19,VTE-0110,C011,CroixRouge Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,323,1208,390184,708,228684,161500,41.4
+2024-10-19,VTE-0132,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,112,1495,167440,693,77616,89824,53.6
+2024-10-19,VTE-0476,C010,Hôpital District Ebolowa,Clinique,Sud,P001,Bouillie Maïs Nature,Céréales,96,1131,108576,568,54528,54048,49.8
+2024-10-20,VTE-0032,C011,CroixRouge Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,433,1115,482795,541,234253,248542,51.5
+2024-10-20,VTE-0195,C008,Score Supermarché Yaoundé,Supermarché,Centre,P002,Bouillie Mil Enrichi,Céréales,269,1276,343244,608,163552,179692,52.4
+2024-10-21,VTE-0334,C005,Vente Directe Usine,Vente directe,Littoral,P008,Bouillie Moringa Miel,Enrichie,16,2100,33600,1171,18736,14864,44.2
+2024-10-21,VTE-0439,C002,Supermarché Dovv Douala,Supermarché,Littoral,P002,Bouillie Mil Enrichi,Céréales,221,1282,283322,619,136799,146523,51.7
+2024-10-22,VTE-0030,C011,CroixRouge Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,708,1154,817032,618,437544,379488,46.4
+2024-10-25,VTE-0291,C003,Marché Mokolo,Marché local,Centre,P005,Bouillie Manioc Nature,Tubercules,31,1100,34100,567,17577,16523,48.5
+2024-10-25,VTE-0319,C006,UNICEF Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,483,1097,529851,693,334719,195132,36.8
+2024-10-25,VTE-0425,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,62,1429,88598,664,41168,47430,53.5
+2024-10-28,VTE-0116,C010,Hôpital District Ebolowa,Clinique,Sud,P002,Bouillie Mil Enrichi,Céréales,148,1273,188404,708,104784,83620,44.4
+2024-10-28,VTE-0160,C005,Vente Directe Usine,Vente directe,Littoral,P003,Bouillie Soja Vanille,Légumineuses,9,1500,13500,798,7182,6318,46.8
+2024-10-31,VTE-0016,C002,Supermarché Dovv Douala,Supermarché,Littoral,P001,Bouillie Maïs Nature,Céréales,142,1108,157336,505,71710,85626,54.4
+2024-11-01,VTE-0391,C003,Marché Mokolo,Marché local,Centre,P006,Bouillie Plantain Sucré,Tubercules,21,1250,26250,550,11550,14700,56.0
+2024-11-03,VTE-0200,C008,Score Supermarché Yaoundé,Supermarché,Centre,P006,Bouillie Plantain Sucré,Tubercules,233,1184,275872,519,120927,154945,56.2
+2024-11-04,VTE-0086,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,779,1423,1108517,767,597493,511024,46.1
+2024-11-06,VTE-0014,C009,Marché Central Garoua,Marché local,Nord,P004,Bouillie Arachide Cacao,Légumineuses,60,1600,96000,716,42960,53040,55.2
+2024-11-06,VTE-0350,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P003,Bouillie Soja Vanille,Légumineuses,129,1395,179955,678,87462,92493,51.4
+2024-11-06,VTE-0409,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P002,Bouillie Mil Enrichi,Céréales,21,1287,27027,585,12285,14742,54.5
+2024-11-07,VTE-0135,C005,Vente Directe Usine,Vente directe,Littoral,P005,Bouillie Manioc Nature,Tubercules,32,1100,35200,598,19136,16064,45.6
+2024-11-07,VTE-0211,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,55,1568,86240,728,40040,46200,53.6
+2024-11-09,VTE-0025,C010,Hôpital District Ebolowa,Clinique,Sud,P001,Bouillie Maïs Nature,Céréales,69,1084,74796,606,41814,32982,44.1
+2024-11-09,VTE-0186,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P003,Bouillie Soja Vanille,Légumineuses,81,1431,115911,627,50787,65124,56.2
+2024-11-09,VTE-0191,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P001,Bouillie Maïs Nature,Céréales,102,1144,116688,577,58854,57834,49.6
+2024-11-10,VTE-0096,C008,Score Supermarché Yaoundé,Supermarché,Centre,P001,Bouillie Maïs Nature,Céréales,160,1107,177120,512,81920,95200,53.7
+2024-11-10,VTE-0273,C011,CroixRouge Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,726,1329,964854,638,463188,501666,52.0
+2024-11-11,VTE-0474,C008,Score Supermarché Yaoundé,Supermarché,Centre,P006,Bouillie Plantain Sucré,Tubercules,271,1184,320864,549,148779,172085,53.6
+2024-11-12,VTE-0119,C010,Hôpital District Ebolowa,Clinique,Sud,P007,Bouillie Multi-Céréales,Céréales,34,1660,56440,973,33082,23358,41.4
+2024-11-12,VTE-0189,C002,Supermarché Dovv Douala,Supermarché,Littoral,P007,Bouillie Multi-Céréales,Céréales,219,1681,368139,859,188121,180018,48.9
+2024-11-12,VTE-0376,C008,Score Supermarché Yaoundé,Supermarché,Centre,P005,Bouillie Manioc Nature,Tubercules,229,1033,236557,473,108317,128240,54.2
+2024-11-13,VTE-0065,C010,Hôpital District Ebolowa,Clinique,Sud,P004,Bouillie Arachide Cacao,Légumineuses,112,1487,166544,745,83440,83104,49.9
+2024-11-13,VTE-0402,C006,UNICEF Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,528,1325,699600,809,427152,272448,38.9
+2024-11-15,VTE-0115,C010,Hôpital District Ebolowa,Clinique,Sud,P007,Bouillie Multi-Céréales,Céréales,44,1658,72952,763,33572,39380,54.0
+2024-11-15,VTE-0137,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P002,Bouillie Mil Enrichi,Céréales,20,1315,26300,683,13660,12640,48.1
+2024-11-16,VTE-0268,C002,Supermarché Dovv Douala,Supermarché,Littoral,P002,Bouillie Mil Enrichi,Céréales,278,1308,363624,650,180700,182924,50.3
+2024-11-17,VTE-0009,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P003,Bouillie Soja Vanille,Légumineuses,72,1454,104688,706,50832,53856,51.4
+2024-11-18,VTE-0059,C011,CroixRouge Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,796,1136,904256,738,587448,316808,35.0
+2024-11-18,VTE-0242,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P007,Bouillie Multi-Céréales,Céréales,136,1697,230792,875,119000,111792,48.4
+2024-11-18,VTE-0247,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P007,Bouillie Multi-Céréales,Céréales,60,1798,107880,914,54840,53040,49.2
+2024-11-18,VTE-0345,C009,Marché Central Garoua,Marché local,Nord,P006,Bouillie Plantain Sucré,Tubercules,72,1250,90000,560,40320,49680,55.2
+2024-11-18,VTE-0478,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P004,Bouillie Arachide Cacao,Légumineuses,57,1565,89205,866,49362,39843,44.7
+2024-11-20,VTE-0325,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,132,1485,196020,885,116820,79200,40.4
+2024-11-21,VTE-0088,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,164,1212,198768,542,88888,109880,55.3
+2024-11-21,VTE-0129,C002,Supermarché Dovv Douala,Supermarché,Littoral,P001,Bouillie Maïs Nature,Céréales,111,1142,126762,594,65934,60828,48.0
+2024-11-21,VTE-0310,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P002,Bouillie Mil Enrichi,Céréales,38,1318,50084,670,25460,24624,49.2
+2024-11-21,VTE-0365,C010,Hôpital District Ebolowa,Clinique,Sud,P007,Bouillie Multi-Céréales,Céréales,97,1629,158013,874,84778,73235,46.3
+2024-11-22,VTE-0401,C009,Marché Central Garoua,Marché local,Nord,P007,Bouillie Multi-Céréales,Céréales,33,1800,59400,974,32142,27258,45.9
+2024-11-22,VTE-0467,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P005,Bouillie Manioc Nature,Tubercules,39,1057,41223,459,17901,23322,56.6
+2024-11-25,VTE-0177,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P008,Bouillie Moringa Miel,Enrichie,67,1956,131052,857,57419,73633,56.2
+2024-11-25,VTE-0194,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P007,Bouillie Multi-Céréales,Céréales,50,1793,89650,848,42400,47250,52.7
+2024-11-26,VTE-0012,C002,Supermarché Dovv Douala,Supermarché,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,191,1504,287264,825,157575,129689,45.1
+2024-11-26,VTE-0372,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P007,Bouillie Multi-Céréales,Céréales,48,1776,85248,842,40416,44832,52.6
+2024-11-27,VTE-0253,C006,UNICEF Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,766,975,746850,507,388362,358488,48.0
+2024-11-28,VTE-0001,C003,Marché Mokolo,Marché local,Centre,P001,Bouillie Maïs Nature,Céréales,60,1200,72000,600,36000,36000,50.0
+2024-11-28,VTE-0008,C003,Marché Mokolo,Marché local,Centre,P008,Bouillie Moringa Miel,Enrichie,54,2100,113400,1083,58482,54918,48.4
+2024-11-28,VTE-0023,C011,CroixRouge Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,517,1121,579557,698,360866,218691,37.7
+2024-11-28,VTE-0183,C003,Marché Mokolo,Marché local,Centre,P002,Bouillie Mil Enrichi,Céréales,26,1350,35100,690,17940,17160,48.9
+2024-11-29,VTE-0133,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P001,Bouillie Maïs Nature,Céréales,119,1142,135898,611,72709,63189,46.5
+2024-11-30,VTE-0167,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P001,Bouillie Maïs Nature,Céréales,108,1193,128844,565,61020,67824,52.6
+2024-11-30,VTE-0280,C002,Supermarché Dovv Douala,Supermarché,Littoral,P005,Bouillie Manioc Nature,Tubercules,146,1014,148044,479,69934,78110,52.8
+2024-12-01,VTE-0118,C008,Score Supermarché Yaoundé,Supermarché,Centre,P008,Bouillie Moringa Miel,Enrichie,59,2019,119121,975,57525,61596,51.7
+2024-12-02,VTE-0210,C010,Hôpital District Ebolowa,Clinique,Sud,P006,Bouillie Plantain Sucré,Tubercules,94,1110,104340,584,54896,49444,47.4
+2024-12-02,VTE-0414,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P003,Bouillie Soja Vanille,Légumineuses,101,1346,135946,700,70700,65246,48.0
+2024-12-03,VTE-0201,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P001,Bouillie Maïs Nature,Céréales,73,1110,81030,602,43946,37084,45.8
+2024-12-04,VTE-0103,C005,Vente Directe Usine,Vente directe,Littoral,P002,Bouillie Mil Enrichi,Céréales,39,1350,52650,624,24336,28314,53.8
+2024-12-04,VTE-0251,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P008,Bouillie Moringa Miel,Enrichie,40,2044,81760,886,35440,46320,56.7
+2024-12-04,VTE-0289,C005,Vente Directe Usine,Vente directe,Littoral,P002,Bouillie Mil Enrichi,Céréales,18,1350,24300,637,11466,12834,52.8
+2024-12-05,VTE-0081,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P002,Bouillie Mil Enrichi,Céréales,63,1330,83790,569,35847,47943,57.2
+2024-12-05,VTE-0190,C011,CroixRouge Cameroun,ONG partenaire,Centre,P007,Bouillie Multi-Céréales,Céréales,352,1469,517088,881,310112,206976,40.0
+2024-12-07,VTE-0217,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P007,Bouillie Multi-Céréales,Céréales,106,1733,183698,962,101972,81726,44.5
+2024-12-09,VTE-0145,C006,UNICEF Cameroun,ONG partenaire,Centre,P005,Bouillie Manioc Nature,Tubercules,374,898,335852,594,222156,113696,33.9
+2024-12-09,VTE-0259,C002,Supermarché Dovv Douala,Supermarché,Littoral,P005,Bouillie Manioc Nature,Tubercules,75,1056,79200,542,40650,38550,48.7
+2024-12-10,VTE-0036,C001,Pharmacie Centrale Yaoundé,Pharmacie,Centre,P003,Bouillie Soja Vanille,Légumineuses,48,1440,69120,836,40128,28992,41.9
+2024-12-11,VTE-0222,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P004,Bouillie Arachide Cacao,Légumineuses,115,1548,178020,740,85100,92920,52.2
+2024-12-12,VTE-0332,C011,CroixRouge Cameroun,ONG partenaire,Centre,P008,Bouillie Moringa Miel,Enrichie,206,1730,356380,1022,210532,145848,40.9
+2024-12-13,VTE-0460,C010,Hôpital District Ebolowa,Clinique,Sud,P004,Bouillie Arachide Cacao,Légumineuses,83,1493,123919,679,56357,67562,54.5
+2024-12-14,VTE-0151,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P005,Bouillie Manioc Nature,Tubercules,72,1097,78984,590,42480,36504,46.2
+2024-12-14,VTE-0324,C008,Score Supermarché Yaoundé,Supermarché,Centre,P001,Bouillie Maïs Nature,Céréales,173,1157,200161,493,85289,114872,57.4
+2024-12-15,VTE-0112,C007,Pharmacie Jouvence Douala,Pharmacie,Littoral,P004,Bouillie Arachide Cacao,Légumineuses,100,1588,158800,792,79200,79600,50.1
+2024-12-15,VTE-0329,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P008,Bouillie Moringa Miel,Enrichie,124,1966,243784,1087,134788,108996,44.7
+2024-12-17,VTE-0053,C005,Vente Directe Usine,Vente directe,Littoral,P001,Bouillie Maïs Nature,Céréales,18,1200,21600,640,11520,10080,46.7
+2024-12-17,VTE-0244,C003,Marché Mokolo,Marché local,Centre,P001,Bouillie Maïs Nature,Céréales,68,1200,81600,618,42024,39576,48.5
+2024-12-18,VTE-0131,C002,Supermarché Dovv Douala,Supermarché,Littoral,P005,Bouillie Manioc Nature,Tubercules,57,1046,59622,469,26733,32889,55.2
+2024-12-19,VTE-0120,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P001,Bouillie Maïs Nature,Céréales,125,1100,137500,532,66500,71000,51.6
+2024-12-19,VTE-0423,C005,Vente Directe Usine,Vente directe,Littoral,P003,Bouillie Soja Vanille,Légumineuses,11,1500,16500,609,6699,9801,59.4
+2024-12-19,VTE-0480,C009,Marché Central Garoua,Marché local,Nord,P003,Bouillie Soja Vanille,Légumineuses,69,1500,103500,799,55131,48369,46.7
+2024-12-20,VTE-0089,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,115,1163,133745,644,74060,59685,44.6
+2024-12-21,VTE-0262,C010,Hôpital District Ebolowa,Clinique,Sud,P003,Bouillie Soja Vanille,Légumineuses,102,1365,139230,794,80988,58242,41.8
+2024-12-22,VTE-0122,C011,CroixRouge Cameroun,ONG partenaire,Centre,P002,Bouillie Mil Enrichi,Céréales,433,1197,518301,750,324750,193551,37.3
+2024-12-22,VTE-0299,C010,Hôpital District Ebolowa,Clinique,Sud,P002,Bouillie Mil Enrichi,Céréales,84,1270,106680,643,54012,52668,49.4
+2024-12-22,VTE-0449,C010,Hôpital District Ebolowa,Clinique,Sud,P005,Bouillie Manioc Nature,Tubercules,36,1009,36324,606,21816,14508,39.9
+2024-12-23,VTE-0075,C006,UNICEF Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,560,966,540960,588,329280,211680,39.1
+2024-12-23,VTE-0297,C009,Marché Central Garoua,Marché local,Nord,P007,Bouillie Multi-Céréales,Céréales,39,1800,70200,990,38610,31590,45.0
+2024-12-23,VTE-0364,C009,Marché Central Garoua,Marché local,Nord,P003,Bouillie Soja Vanille,Légumineuses,68,1500,102000,751,51068,50932,49.9
+2024-12-24,VTE-0002,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P007,Bouillie Multi-Céréales,Céréales,113,1699,191987,747,84411,107576,56.0
+2024-12-24,VTE-0308,C003,Marché Mokolo,Marché local,Centre,P002,Bouillie Mil Enrichi,Céréales,37,1350,49950,650,24050,25900,51.9
+2024-12-25,VTE-0243,C012,Pharmacie Bonne Santé Bafoussam,Pharmacie,Ouest,P007,Bouillie Multi-Céréales,Céréales,102,1726,176052,741,75582,100470,57.1
+2024-12-26,VTE-0128,C004,Clinique Mère-Enfant Bafoussam,Clinique,Ouest,P005,Bouillie Manioc Nature,Tubercules,77,982,75614,529,40733,34881,46.1
+2024-12-26,VTE-0188,C011,CroixRouge Cameroun,ONG partenaire,Centre,P004,Bouillie Arachide Cacao,Légumineuses,546,1357,740922,816,445536,295386,39.9
+2024-12-26,VTE-0278,C009,Marché Central Garoua,Marché local,Nord,P005,Bouillie Manioc Nature,Tubercules,43,1100,47300,542,23306,23994,50.7
+2024-12-26,VTE-0318,C002,Supermarché Dovv Douala,Supermarché,Littoral,P002,Bouillie Mil Enrichi,Céréales,190,1290,245100,719,136610,108490,44.3
+2024-12-29,VTE-0215,C011,CroixRouge Cameroun,ONG partenaire,Centre,P003,Bouillie Soja Vanille,Légumineuses,715,1269,907335,753,538395,368940,40.7
+2024-12-29,VTE-0216,C002,Supermarché Dovv Douala,Supermarché,Littoral,P006,Bouillie Plantain Sucré,Tubercules,193,1182,228126,614,118502,109624,48.1
+2024-12-29,VTE-0226,C011,CroixRouge Cameroun,ONG partenaire,Centre,P006,Bouillie Plantain Sucré,Tubercules,759,1033,784047,539,409101,374946,47.8
+2024-12-30,VTE-0165,C011,CroixRouge Cameroun,ONG partenaire,Centre,P001,Bouillie Maïs Nature,Céréales,584,975,569400,529,308936,260464,45.7
+2024-12-31,VTE-0068,C006,UNICEF Cameroun,ONG partenaire,Centre,P008,Bouillie Moringa Miel,Enrichie,757,1726,1306582,956,723692,582890,44.6
